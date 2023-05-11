@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+}
+input {
+    margin-bottom: 8px;
+}
+.result {
+    font-size: 18px;
+    color: white;
+    padding: 8px 13px;
+    background: red;
+    border-radius: 5px;
+}
+button {
+    font-size: 16px;
+    background: #b0cedf;
+    width: 25px;
+    height: 25px;
+    border-radius: 5px;
+}
+.btn {
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+}
